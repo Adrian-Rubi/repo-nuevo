@@ -1,3 +1,5 @@
-# mi primer repositorio con git 
+# Mi Primer Repositorio Con Git 
 
 # Adrián Rubí 
+
+# Ingeniero De Sistemas
